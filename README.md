@@ -7,9 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="mailto:koushikpadigala2@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/krishna-koushik-padigala-691728305/">LinkedIn</a> •
-  <a href="https://github.com/krishk2">GitHub</a>
+  <a href="mailto:koushikpadigala2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/krishna-koushik-padigala-691728305/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/krishk2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -20,8 +26,41 @@
 - 🎓 B.Tech CSE @ RGUKT RK Valley (GPA: 8.77)  
 - 🤖 Building **LLM-powered multi-agent systems** and real-world AI products  
 - ⚡ Focused on **agentic workflows, enterprise automation, and scalable AI systems**  
-- 🧪 Exploring the intersection of **Quantum Computing + AI systems**  
+- ⚛️ Exploring **Quantum Computing + AI systems**  
 - 🏆 Hackathon builder with multiple wins across AI & systems tracks  
+
+---
+
+<!-- ================= TECH BADGES ================= -->
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Quantum-000000?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+</p>
 
 ---
 
@@ -36,30 +75,28 @@
 ---
 
 ### 🧠 Veritas.AI – Multi-Agent Fact Checking System
-- LLM-powered system for misinformation detection and verification  
-- Uses **RAG + multi-source cross-referencing + credibility scoring**  
-- Structured reasoning pipelines for **reliable, explainable outputs**
+- LLM-powered system for misinformation detection  
+- Uses **RAG + multi-source verification + credibility scoring**  
+- Structured pipelines for **explainable AI outputs**
 
 ---
 
 ### 👁️ Masthishq – AI Memory Assistant
 - Multimodal AI system for Alzheimer’s assistance  
-- Built using **FaceNet, YOLOv8, Qdrant, Llama-3 (Groq)**  
-- Achieved **<2s response latency** with high accuracy  
+- FaceNet + YOLOv8 + Qdrant + Llama-3  
+- <2s response latency  
 
 ---
 
 ### 🕶️ SeeQuence – Assistive Navigation Glasses
 - AI-powered navigation aid for visually impaired users  
-- Implemented **YOLOv8 obstacle detection + traffic light recognition**  
-- Integrated **OpenStreetMap + real-time audio/vibration feedback**
+- YOLOv8 + OpenStreetMap + real-time feedback  
 
 ---
 
 ### ⚛️ Quantum Systems Work
-- Built **real-time job tracking dashboard for IBM Quantum systems**  
-- Explored hybrid workflows combining **quantum job execution + classical monitoring systems**  
-- Strong interest in **hybrid quantum-classical AI architectures**
+- Built **IBM Quantum job tracking dashboard**  
+- Exploring **hybrid quantum-classical workflows**
 
 ---
 
@@ -67,40 +104,20 @@
 ## 🏆 Achievements
 
 - 🥇 **Winner – Convolve 4.0 (Pan IIT Hackathon)**  
-  → 1st place among **8000+ participants** (Multi-Agent Systems Track)
+  → 1st among **8000+ participants**
 
 - 🥇 **Winner – Amaravati Quantum Valley Hackathon**  
-  → Built a **live job tracking dashboard for IBM Quantum**
+  → IBM Quantum dashboard  
 
 - 🥈 **Finalist – Mumbai Hacks 2.0**  
-  → One of the **largest AI agent hackathons**
+  → Largest AI Agent Hackathon  
 
-- 🚀 **Cisco ThingQbator Cohort-8**  
-  → Selected among **Top 21 teams**
-
+- 🚀 **Cisco ThingQbator Cohort-8** → Top 21 teams  
 - 🎓 **Siemens Scholar**  
-  → Awarded to high-performing engineering students across India  
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-## ⚙️ Tech Stack
-
-**💻 Languages:**  
-Python • Java • C • JavaScript • SQL  
-
-**🤖 AI & LLM Systems:**  
-Prompt Engineering • OpenAI/Groq APIs • CrewAI • Hugging Face • RAG  
-
-**🌐 Web & Backend:**  
-React.js • FastAPI • Flask • Node.js • Express.js • REST APIs  
-
-**🗄️ Databases & Tools:**  
-MongoDB • MySQL • Qdrant • Docker • Git  
-
----
-
-<!-- ================= GITHUB STATS ================= -->
+<!-- ================= STATS ================= -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -118,26 +135,21 @@ MongoDB • MySQL • Qdrant • Docker • Git
 
 ---
 
-<!-- ================= CURRENT WORK ================= -->
 ## 🧩 Currently Working On
 
-- 🚀 Scaling **multi-agent AI systems** for real-world deployment  
-- 🧠 Building **enterprise AI workflows (LLMs + APIs + automation)**  
-- ⚛️ Exploring **Quantum + AI hybrid systems**  
+- 🚀 Multi-agent AI systems  
+- 🧠 Enterprise AI workflows  
+- ⚛️ Quantum + AI integration  
 
 ---
 
-<!-- ================= CONTACT ================= -->
 ## 🤝 Let's Connect
 
-💬 Open to AI internships, collaborations, and hackathons  
-
-📫 Email: koushikpadigala2@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/krishna-koushik-padigala-691728305/  
+📫 koushikpadigala2@gmail.com  
+🔗 LinkedIn  
 
 ---
 
-<!-- ================= FUN ================= -->
 ## ⚡ Fun Fact
 
-I don’t just build ML models — I build **systems that use them in the real world** 🚀
+I don’t just build ML models — I build systems that *use them in the real world* 🚀

@@ -23,7 +23,7 @@
 <!-- ================= ABOUT ================= -->
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE @ RGUKT RK Valley (GPA: 8.77)  
+- 🎓 B.Tech CSE @ RGUKT RK Valley (GPA: 8.81)  
 - 🤖 Building **LLM-powered multi-agent systems** and real-world AI products  
 - ⚡ Focused on **agentic workflows, enterprise automation, and scalable AI systems**  
 - ⚛️ Exploring **Quantum Computing + AI systems**  
